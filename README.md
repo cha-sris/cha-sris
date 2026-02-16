@@ -79,6 +79,11 @@
 
 ---
 
-> *Jack of All Trade, Master of One*.
+<!-- *Jack of All Trade, Master of One*. -->
+
+> *AI can't take your job if you don't have one*.
+>
+> <div align="center">~ Cha-Sris | The Unemployed</div>   
 
 ###
+
