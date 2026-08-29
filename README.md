@@ -101,6 +101,9 @@
   <a href="https://www.facebook.com/srisanchaudhary" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
   </a>
+  <a href="https://x.com/xchasris" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%20&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
+  </a>
  <a href="https://www.srisanchaudhary.com.np" target ="_blank">
      <img src="https://img.shields.io/badge/Portfolio-%23181717.svg?logo=github&logoColor=white)" height="35" alt="github logo"  />
  </a>
