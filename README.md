@@ -89,24 +89,18 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/users/1329980800476905523" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=chasris&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
-  </a>
-  <a href="mailto:srisanchaudhary@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/srisanchaudhary/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/srisanchaudhary" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/xchasris" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
-  </a>
- <a href="https://www.srisanchaudhary.com.np" target ="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-%23181717.svg?logo=github&logoColor=white)" height="35" alt="github logo"  />
- </a>
+  <a href="https://discord.com/users/1329980800476905523">
+    <img src="https://img.shields.io/static/v1?message=chasris&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  /></a>
+  <a href="mailto:srisanchaudhary@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/srisanchaudhary/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  /></a>
+  <a href="https://www.facebook.com/srisanchaudhary">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  /></a>
+  <a href="https://x.com/xchasris">
+    <img src="https://img.shields.io/static/v1?message=%20&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  /></a>
+ <a href="https://www.srisanchaudhary.com.np">
+     <img src="https://img.shields.io/badge/Portfolio-%23181717.svg?logo=github&logoColor=white)" height="35" alt="github logo"  /></a>
 </div>
 
 ###
