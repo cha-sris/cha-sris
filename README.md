@@ -2,7 +2,7 @@
 
 ###
 
-### Frontend Developer | 
+### Fullstack Developer  
 
 ###
 
@@ -26,19 +26,22 @@
       <a href="https://github.com/cha-sris/Java">
        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
       <a href="https://github.com/cha-sris/sqlite">
-       <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="sqlite logo"  /></a>
+       <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="sqlite logo"  /></a>
+       <br/><br/>
       <a href="https://github.com/cha-sris/react">
-       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  /></a>
-      <!-- <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  /> -->
-      <!-- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  /> -->
-      <!-- <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  /> -->
-      <!-- <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  /> -->
-      <!-- <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  /> -->
-      <!-- <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="40" alt="fastapi logo"  /> -->
+       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react logo"  /></a>
+       <a href="https://github.com/cha-sris/aethelgard">
+        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" alt="tailwindcss logo"  /></a>
+      <!-- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python logo"  /> -->
+      <!-- <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="go logo"  /> -->
+      <!-- <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="dot-net logo"  /> -->
+      <!-- <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="django logo"  /> -->
+      <!-- <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="fastapi logo"  /> -->
       <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  /> -->
-      <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  /> -->
-      <!-- <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  /> -->
-      <!-- <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  /> -->
+      <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb logo"  /> -->
+      <!-- <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="nodejs logo"  /> -->
+      <!-- <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="flutter logo"  /> -->
+      <!-- <a href="https://github.com/cha-sris/aethelgard"> -->
       <br /><br />
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -80,7 +83,7 @@
   <a href="https://x.com/xchasris">
     <img src="https://img.shields.io/static/v1?message=%20&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  /></a>
  <a href="https://www.srisanchaudhary.com.np">
-     <img src="https://img.shields.io/badge/Portfolio-%23181717.svg?logo=github&logoColor=white)" height="35" alt="github logo"  /></a>
+     <img src="https://img.shields.io/badge/Portfolio-%23181717.svg?logo=github&logoColor=white)" height="20" alt="github logo"  /></a>
 </div>
 
 ###
